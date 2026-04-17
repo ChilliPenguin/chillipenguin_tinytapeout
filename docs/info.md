@@ -11,9 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 This is an test involving 2 NANDs and a NAND MUX
 
 ## How to test
-
-Explain how to use your project
-This is for simple logic, not really applicable
+This is for simple logic, not really applicable for any design 
 
 ## External hardware
 None
