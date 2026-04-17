@@ -11,9 +11,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+Example Test involving 2 NANDs and a NAND MUX
+
 ## How to test
 
 Explain how to use your project
+
+Example test for simple logic, not really applicable
 
 ## External hardware
 
